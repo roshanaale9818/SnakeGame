@@ -1,0 +1,35 @@
+.gameArena {
+    background: url(snake.png);
+    border: 10px solid red;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 608px;
+    width: 608px
+}
+
+#btn {
+    position: absolute;
+    right: 25%;
+    top: 56%;
+}
+
+.main {
+    position: absolute;
+    left: 28%;
+    top: 0;
+}
+
+.par p {
+    font-size: 35px;
+    position: absolute;
+    background: coral;
+    top: 91.1%;
+    left: 26%;
+}
+
+#btnPlayAgain {
+    position: absolute;
+    bottom: 10%;
+    left: 36%;
+}
